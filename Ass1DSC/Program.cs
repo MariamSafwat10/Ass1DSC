@@ -17,9 +17,9 @@
             //Console.Write("Enter number : ");
             //int num = int.Parse(Console.ReadLine());
             //int result = 0;
-            //for(int i = 0; i < num; i++)
+            //for (int i = 1; i <= num; i++)
             //{
-            //    result += num;
+            //    result += i;
             //}
             //Console.WriteLine($"Result : {result}");
             #endregion
@@ -79,7 +79,7 @@
             //{
             //    arr[i] = int.Parse(Console.ReadLine());
             //}
-    
+
             //Console.Write("Target : ");
             //int target = int.Parse(Console.ReadLine());
 
@@ -94,7 +94,7 @@
             //            f = true;
             //        }
             //    }
-                
+
             //}
             //if (!f)
             //{
