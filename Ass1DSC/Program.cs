@@ -70,7 +70,7 @@
             //Console.WriteLine($"Sum of valid numbers = {valid}");
             #endregion
 
-            #region Q4
+            #region Q5
             //Console.WriteLine("Enter size of array : ");
             //int size = int.Parse(Console.ReadLine());
             //int[] arr = new int[size];
